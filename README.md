@@ -6,7 +6,7 @@
 <h1 align="center"><b>Hi 👋, I'm JUI MOREY</b></h1>
 <h3 align="center"><i>(M.Tech(R) CSIS in NITK, Surathkal)</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranabnandy&label=visitors%20&color=129e00&style=plastic" alt="jui-git" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jui-git&label=visitors%20&color=129e00&style=plastic" alt="jui-git" /> </p>
 <img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 
 
