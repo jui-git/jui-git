@@ -79,5 +79,5 @@
 
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=PranabNandy&column=8)](https://github-profile-trophy.vercel.app/?username=jui-git&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jui-git&column=8)](https://github-profile-trophy.vercel.app/?username=jui-git&column=8)
 
